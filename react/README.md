@@ -1,7 +1,7 @@
 ## Pliki przydatne w nauce REACT
 
 W folderze szablon znajduje się baza do ćwiczeń z REACT
-Zawansowa aplikacje webowe
+
 
 #### Jak stworzyć nowy projekt w REACT
 1. Instalacja cerate-react-app
